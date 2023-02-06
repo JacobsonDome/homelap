@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      chillen am Abend
+      chillen am Abend donnerstag beim Max!
     </div>
   );
 }
